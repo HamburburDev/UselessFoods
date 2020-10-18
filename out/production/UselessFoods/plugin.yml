@@ -1,0 +1,5 @@
+name: UselessFoods
+author: Hamburbur
+description: Every type of food ingame is useless!
+version: 1.0
+main: me.hamburbur.UselessFoods.Main
